@@ -1,0 +1,123 @@
+<!------------------------------------->
+<!----------TOP CENTER COLUMN---------->
+<!-------------APPLE LINKS------------->
+<!------------------------------------->
+<h2 class="category-text">Apple Links</h2>
+<a href="https://www.apple.com/ipad-10.2/" class="link-text">iPad 8th Generation Product Page</a>
+<a href="https://support.apple.com/kb/SP822?locale=en_US" class="link-text">iPad 8th Generation Technical Specifications</a>
+<a href="https://www.apple.com/newsroom/2020/09/apple-introduces-eighth-generation-ipad-with-a-huge-jump-in-performance/" class="link-text">iPad 8th Generation Press Release</a>
+<a href="https://www.apple.com/ipad/compare/?device1=ipad-8th-gen&device2=ipad-air-4th-gen" class="link-text">Compare iPad Models</a>
+<a href="https://support.apple.com/guide/ipad/welcome/ipados" class="link-text">iPad User Guide</a>
+<!------------------------------------->
+
+
+<!------------------------------------->
+<!------------FIRST COLUMN------------->
+<!----------TECH REVIEW LINKS---------->
+<!------------------------------------->
+<h2 class="category-text">Tech Reviews</h2>
+<a href="https://appleinsider.com/articles/20/10/05/review-apples-eighth-gen-ipad-is-powerful-but-expectedly-boring" class="link-text">Apple Insider - Test Title</a>
+<a href="https://9to5mac.com/2020/09/25/ipad-8-top-features-the-best-value-ipad-gets-better-video/" class="link-text">9to5Mac - Test Title</a>
+<a href="https://www.cnet.com/news/apple-ipad-8th-gen-review-still-the-one-you-should-buy/" class="link-text">CNET - Test Title</a>
+<a href="https://www.theverge.com/21451699/apple-ipad-2020-review-eighth-generation-bionic-processor-zoom" class="link-text">The Verge - Test Title</a>
+<a href="https://www.macrumors.com/roundup/ipad/" class="link-text">MacRumors - Test Title</a>
+<a href="https://www.techrepublic.com/article/ipad-8th-generation-a-cheat-sheet/" class="link-text">Tech Republic - Test Title</a>
+<a href="https://www.trustedreviews.com/reviews/ipad-8" class="link-text">Trusted Reviews - Test Title</a>
+<a href="https://techcrunch.com/2020/09/23/the-eighth-generation-ipad-is-a-fine-choice-for-casual-users/" class="link-text">Tech Crunch - Test Title</a>
+<a href="https://www.digitaltrends.com/tablet-reviews/apple-ipad-8th-gen-2020-review/" class="link-text">Digital Trends - Test Title</a>
+<a href="https://www.pocket-lint.com/tablets/reviews/apple/153874-apple-ipad-review-8th-gen-2020" class="link-text">Pocket-Lint - Test Title</a>
+<a href="https://www.engadget.com/apple-ipad-2020-ipados-14-review-170023713.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANIsJfa7aWC1sxjwCpzHZ-GsFYYTT7VGoUQGfEfpXteyX4NI68SunSWvPC4sevsoLrjNt6lbB92BGih18yj2l9sJ-DVn36MQ7QPVGxVqY-xVlxWYaXIuE_SgOzV5cjmMyv0WYBMnhQiB4fGjxA9BtIJxE9U0Pz3IVkCw_JVM5qaT" class="link-text">Engadget - Test Title</a>
+<a href="https://www.macworld.com/article/3575865/ipad-8th-generation-review.html" class="link-text">MacWorld - Test Title</a>
+<a href="https://www.phonearena.com/reviews/Apple-iPad-2020-Review_id4854" class="link-text">Phone Arena - Test Title</a>
+<a href="https://arstechnica.com/gadgets/2020/10/ipad-2020-micro-review-battle-tested-and-more-than-fast-enough/" class="link-text">Ars Technica - Test Title</a>
+<a href="https://www.wired.com/gallery/the-best-ipad/" class="link-text">Wired - Test Title</a>
+<a href="https://www.pickr.com.au/reviews/2020/apple-ipad-8th-generation-2020/" class="link-text">Pickr - Test Title</a>
+<a href="https://www.techradar.com/reviews/new-ipad-102-2020" class="link-text">Tech Radar - Test Title</a>
+<a href="https://www.wired.co.uk/article/8th-gen-2020-ipad-102in-review" class="link-text">Wired (UK) - Test Title</a>
+<!------------------------------------->
+
+
+<!------------------------------------->
+<!----------NEWS REVIEW LINKS---------->
+<!------------------------------------->
+<h2 class="category-text">News Reviews</h2>
+<a href="https://www.theguardian.com/technology/2020/sep/30/apple-ipad-2020-review-tablet-faster-cost" class="link-text">The Guardian (UK) - Test Title</a>
+<a href="https://www.forbes.com/sites/davidphelan/2020/09/19/apple-ipad-2020-review-mind-blowing-value-but-should-you-wait-for-ipad-air/#5e5a974013f2" class="link-text">Forbes - Test Title</a>
+<a href="https://www.goodhousekeeping.com/uk/product-reviews/tech/a34067906/apple-ipad-8th-generation-review/" class="link-text">Good Housekeeping - Test Title</a>
+<!------------------------------------->
+
+
+<!------------------------------------->
+<!------------SECOND COLUMN------------>
+<!----------VIDEO REVIEW LINKS--------->
+<!------------------------------------->
+<h2 class="category-text">Video Reviews</h2>
+<a href="https://www.youtube.com/watch?v=mZbQqe8ImYI" class="link-text">Nick Akerman - Test Title</a>
+<a href="https://www.youtube.com/watch?v=vZtOl2f8SYc" class="link-text">The Verge - Test Title</a>
+<a href="https://www.youtube.com/watch?v=rYm50hnXs8g" class="link-text">Mobile Tech Review - Test Title</a>
+<a href="https://www.youtube.com/watch?v=kJGQv0vMVMc" class="link-text">9to5Mac - Test Title</a>
+<a href="https://www.youtube.com/watch?v=gAhPKBSUMpg" class="link-text">Tech Gear Talk - Test Title</a>
+<a href="https://www.youtube.com/watch?v=2Tl-EdusnLk" class="link-text">Harris Craycraft - Test Title</a>
+<a href="https://www.youtube.com/watch?v=dkymr7ZunsI" class="link-text">Rene Richie - Test Title</a>
+<a href="https://www.youtube.com/watch?v=lUpSJ8VjcuI" class="link-text">The Everyday Dad - Test Title</a>
+<a href="https://www.youtube.com/watch?v=zcIkVI_obBI" class="link-text">Nikias Molina - Test Title</a>
+<a href="https://www.youtube.com/watch?v=ru4CUAJiJKM" class="link-text">Christopher Lawley - Test Title</a>
+<a href="https://www.youtube.com/watch?v=Uf7fEmnkkjk" class="link-text">Noah Herman - Test Title</a>
+<a href="https://www.youtube.com/watch?v=9vtlUsmuuwg" class="link-text">Canoopsy - Test Title</a>
+<a href="https://www.youtube.com/watch?v=9vtlUsmuuwg" class="link-text">The Everyday Dad - Test Title</a>
+<a href="https://www.youtube.com/watch?v=QTQGV2_F3l8" class="link-text">Engadget - Test Title</a>
+<a href="https://www.youtube.com/watch?v=RWjd6nRc4qw" class="link-text">Brad Cowboy - Test Title</a>
+<a href="https://www.youtube.com/watch?v=WVXo4rtRGpg" class="link-text">Tech Gear Talk - Test Title</a>
+<a href="https://www.youtube.com/watch?v=rYm50hnXs8g" class="link-text">Mobile Tech Review - Test Title</a>
+<a href="https://www.youtube.com/watch?v=fTUz6tfaGh4" class="link-text">Rene Ritchie - Test Title</a>
+<!------------------------------------->
+
+
+<!------------------------------------->
+<!---------GENERAL REVIEW LINKS-------->
+<!------------------------------------->
+<h2 class="category-text">General Reviews</h2>
+<a href="https://www.tomsguide.com/reviews/new-ipad-2020-102" class="link-text">Tom's Guide - Test Title</a>
+<a href="https://www.expertreviews.co.uk/tablets/1412447/apple-ipad-102in-8th-gen-2020-review" class="link-text">Expert Reviews - Test Title</a>
+<!------------------------------------->
+
+
+<!------------------------------------->
+<!------------THIRD COLUMN------------->
+<!-------COMPARISON REVIEW LINKS------->
+<!------------------------------------->
+<h2 class="category-text">Comparison</h2>
+<a href="https://www.tomsguide.com/news/ipad-8-vs-ipad-7-should-you-upgrade" class="link-text">Tom's Guide - Test Title</a>
+<a href="https://www.laptopmag.com/news/ipad-air-4-vs-ipad-8-which-new-ipad-should-you-buy" class="link-text">Laptop Mag - Test Title</a>
+<a href="https://www.phonearena.com/news/iPad-8-vs-iPad-Air-4_id127468" class="link-text">Phone Arena - Test Title</a>
+<!------------------------------------->
+
+
+<!------------------------------------->
+<!-----------UNBOXING LINKS------------>
+<!------------------------------------->
+<h2 class="category-text">Unboxing</h2>
+<a href="https://9to5mac.com/2020/10/01/ipad-8-2020-unboxing-review-the-best-value-ipad-video/" class="link-text">9to5Mac - Test Title</a>
+<a href="https://www.youtube.com/watch?v=1K0Qru_8mCk" class="link-text">CNET - Test Title</a>
+<a href="https://www.youtube.com/watch?v=APoRYp59miw" class="link-text">My Next Tablet - Test Title</a>
+<a href="https://www.youtube.com/watch?v=24Zypd9L4Ig" class="link-text">The Everyday Dad - Test Title</a>
+<a href="https://www.youtube.com/watch?v=IpERIVrX6FU" class="link-text">Brad Cowboy - Test Title</a>
+<!------------------------------------->
+
+
+<!------------------------------------->
+<!-----------FOLLOW UP LINKS----------->
+<!------------------------------------->
+<h2 class="category-text">Follow Up</h2>
+<a href="https://www.youtube.com/watch?v=k9ERZYoZbSk" class="link-text">The Everyday Dad - Test Title</a>
+<!------------------------------------->
+
+
+<!------------------------------------->
+<!------------REDDIT LINKS------------->
+<!------------------------------------->
+<h2 class="category-text">Reddit</h2>
+<a href="https://www.reddit.com/r/ipad/" class="link-text">Reddit - Test Title</a>
+<!------------------------------------->
+
+
